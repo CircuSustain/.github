@@ -13,5 +13,6 @@ Já pensou em arrumar algum aparelho eletrônico com um técnico de qualidade? N
 
 ## Redes :
 
+- [Beacons](https://beacons.ai/conectavel)
 - [Instagram](https://www.instagram.com/conectavel_/)
 - [LinkedIn](https://www.linkedin.com/company/circusustain/)

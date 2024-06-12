@@ -12,7 +12,7 @@
 Já pensou em arrumar algum aparelho eletrônico com um técnico de qualidade? Nós, da Conectável, estamos aqui para solucionar o seu problema!
 
 ## Redes :
+<a href="https://beacons.ai/conectavel" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://www.instagram.com/conectavel_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/company/circusustain/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-- [Beacons](https://beacons.ai/conectavel)
-- [Instagram](https://www.instagram.com/conectavel_/)
-- [LinkedIn](https://www.linkedin.com/company/circusustain/)
